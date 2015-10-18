@@ -127,17 +127,44 @@ body {
     padding-top: 55px;
     
 }
+.supporting-1 .c-1 p {
+    padding-top: 5px;
+    padding-left: 10px;   
+}
 .supporting-1 .c-1 {
     background-color: #FF9FA6;
     width: 500px;
+    height: 80px;
+    color: #ffffff;
+}
+.supporting-1 .c-2 p {
+    padding-top: 5px;
+    padding-left: 10px;   
 }
 .supporting-1 .c-2 {
     background-color: #6FBCCC;
     width: 500px;
+    height: 40px;
+      color: #ffffff;
+}
+.supporting-1 .c-3 p {
+    padding-top: 5px;
+    padding-left: 10px;   
 }
 .supporting-1 .c-3 {
-    background-color: crimson;
+    background-color: #990000;
     width: 500px;
+    height: 30px;
+    color: #ffffff;
+}
+.supporting-1 .c-4 p {
+    padding-left: 10px;   
+}
+.supporting-1 .c-4 {
+    background-color: #3498DB;
+    width: 500px;
+    height: 20px;
+    color: #ffffff;
 }
 /*supporting-2*/
 .supporting-2 {
