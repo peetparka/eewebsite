@@ -45,15 +45,15 @@ body {
 .main .col-md-12 {
     position: absolute;
     background: url(../image/balls2.0.gif);
-    background-size: 100%;
+    background-size: contain;
     background-repeat: no-repeat;
     height: 500px;
     opacity: 1; 
-    transition: 1.5s ease-in;
+    transition: 1s ease-in;
     z-index: 1;
 }
 .main .col-md-12:hover {
-    opacity: 0;
+    opacity: .1;
 }
 .main .col-md-3 {
     border: ; 
